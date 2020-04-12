@@ -1,10 +1,11 @@
+
 ### KC Santosh, PhD, IEEE Senior Member 
-Associate Professor (Promoted with tenure, effective from SU2020)
+**Associate Professor** (Promoted with tenure, effective from SU2020)
 Department of Computer Science, The University of South Dakota 
 Email: santosh.kc@ieee.org & santosh.kc@usd.edu 
 Phone: (605) 677-5390
 
-Associate Professor (Visiting)
+**Associate Professor** (Visiting)
 School of Computing and IT, Taylor's University, Malaysia 
 
 ### Quick Biograpgy
