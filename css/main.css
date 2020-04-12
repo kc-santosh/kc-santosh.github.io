@@ -1,0 +1,228 @@
+@font-face{
+            font-family:"menufont";
+            src:url("http://www.myfontfree.com/data/205/s/serifa-bt/Serifa BT.ttf");
+            font-weight:bold;
+        }
+
+        body{
+            font-family: Ubuntu, sans-serif;
+            font-size:16px;
+            background: url('../images/bg.jpg') no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;}
+        
+        .container .spc{
+            width: 65% !important;
+        }
+
+        #servicescontent ul li {
+            margin: 0px;
+            padding:0px;
+        }
+        
+	.tab-pane li {
+		margin-top:10px;
+	}
+    .contentdiv ul li {
+            margin-top:10px;
+    }
+
+            .margin-less{
+                margin-top:5px;
+            }
+
+            .footercon{
+                margin:0px !important;
+                padding:0px !important;
+            }
+            .footercl span{
+                font-size:14px;
+                color: #990000;
+            
+            }
+            .rightsidetext{
+                color: #990000;
+                font-size:16px;
+            }
+
+            .tab-content ul li{
+                margin-top:10px;
+            }
+
+        .leftmenucls{
+            
+        }
+
+        .leftmenucls li{
+            cursor: pointer;
+            border-bottom:solid 1px #ccc;
+            margin-top:5px !important;
+            
+        }
+        .leftmenucls li a{
+            padding: 11px 10px;
+            word-wrap: normal;
+            display: block;
+            text-decoration: none;
+            font-weight: bold;
+            font-style: normal;
+            font-size: 20px;
+            line-height: 1.2;
+            color: #990000;
+        }
+
+        .leftmenucls li a:hover{
+            color: #000;
+            background:none !important;
+        }
+
+        .leftmenucls > li.active > a {
+            background:none !important;
+            color:#000;
+        }
+
+        .leftmenucls > li.active > a:hover {
+            color:#000;
+        }
+        .rightlist_logo ul{
+            list-style:none;
+            margin:0px;
+            padding:0px;
+            margin-top:25px;
+            float:right;
+        }
+         .rightlist_logo ul li{
+            float:right;
+            margin-left:5px;
+        }
+        .footerimg img{
+            float:right;
+        }
+        .affiliationslogo{
+            list-style:none;
+            margin-top:15px;
+            padding:0px;
+        }
+        .affiliationslogo li{
+            float:left;
+            margin-left:30px;
+        }
+        .rightsidebardiv{
+            cursor:pointer;
+        }
+        .afflul ul{
+            list-style:none;
+            padding:0px;
+            margin:0px;
+        }
+        .afflul ul li{
+            float:left;
+            margin-left:30px;
+        }
+
+
+        #talks ul{
+            margin:0px;
+            padding:0px;list-style: none;
+        }
+
+        .talks_spcl div{
+            margin-top:10px;
+        }
+
+      .talks_spcl img{
+          margin:0px auto;
+      }
+
+      .talks_spcl .brdr{
+          border-right:solid 1px #0f0f0f;
+      }
+
+      /* Style the Image Used to Trigger the Modal */
+      #myImg {
+          border-radius: 5px;
+          cursor: pointer;
+          transition: 0.3s;
+      }
+
+      #myImg:hover {opacity: 0.7;}
+
+      /* The Modal (background) */
+      .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1; /* Sit on top */
+          padding-top: 100px; /* Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+      }
+
+      /* Modal Content (Image) */
+      .modal-content {
+          margin: auto;
+          display: block;
+          width: 60%;
+          max-width: 400px;
+      }
+
+      /* Caption of Modal Image (Image Text) - Same Width as the Image */
+      #caption {
+          margin: auto;
+          display: block;
+          width: 80%;
+          max-width: 700px;
+          text-align: center;
+          color: #ccc;
+          padding: 10px 0;
+          height: 150px;
+      }
+
+      /* Add Animation - Zoom in the Modal */
+      .modal-content, #caption {
+          -webkit-animation-name: zoom;
+          -webkit-animation-duration: 0.6s;
+          animation-name: zoom;
+          animation-duration: 0.6s;
+      }
+
+      @-webkit-keyframes zoom {
+          from {-webkit-transform:scale(0)}
+          to {-webkit-transform:scale(1)}
+      }
+
+      @keyframes zoom {
+          from {transform:scale(0)}
+          to {transform:scale(1)}
+      }
+
+      /* The Close Button */
+      .close {
+          position: absolute;
+          top: 15px;
+          right: 35px;
+          color: #f1f1f1;
+          font-size: 40px;
+          font-weight: bold;
+          transition: 0.3s;
+      }
+
+      .close:hover,
+      .close:focus {
+          color: #bbb;
+          text-decoration: none;
+          cursor: pointer;
+      }
+
+      /* 100% Image Width on Smaller Screens */
+      @media only screen and (max-width: 700px){
+          .modal-content {
+              width: 100%;
+          }
+      }
