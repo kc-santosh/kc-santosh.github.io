@@ -8,7 +8,7 @@ Phone: (605) 677-5390
 **Associate Professor** (Visiting)
 School of Computing and IT, Taylor's University, Malaysia 
 
-#### Research highlights (2020)
+#### Research on COVID-19 (2020)
 #COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection
 
 a) AI-driven tools for coronavirus outbreak ..., Journal of Medical Systems, Vol. 44, 2020, 
