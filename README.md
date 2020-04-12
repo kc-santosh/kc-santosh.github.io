@@ -43,3 +43,4 @@ b) Co-chair for PR4BioImaging2020: Pattern Recognition for Biomedical Quantitati
 Note: For all of these journal issues and conferene events, if you have queries, contact me at santosh (dot) kc (at) ieee (dot) org
 
 
+[Teaching][Teaching] &  [Research][Reseach] 
