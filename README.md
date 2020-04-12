@@ -1,2 +1,2 @@
 # kc-santosh.github.io 
-## please follow me at http://kc-santosh.org
+## Please follow me at kc-santosh.org for more information.
