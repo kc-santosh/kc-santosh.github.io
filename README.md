@@ -10,9 +10,10 @@ School of Computing and IT, Taylor's University, Malaysia
 
 #### Research highlights (2020)
 #COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection
-AI-driven tools for coronavirus outbreak ..., Journal of Medical Systems, Vol. 44, 2020, 
-<a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a>
 
+a) AI-driven tools for coronavirus outbreak ..., Journal of Medical Systems, Vol. 44, 2020, 
+<a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a>
+b) Truncated Inception Net: COVID-19 Outbreak Screening using Chest X-rays, <a href="https://doi.org/10.21203/rs.3.rs-20795/v1">DOI:10.21203/rs.3.rs-20795/v1 (Preprint)</a> ...
 
 
 ### Quick Biograpgy
