@@ -38,7 +38,7 @@ Journal of Pattern Recognition Research
 <li>Multimedia Tools & Applications (MTAP, Springer Nature) (Special issue: Recent Advances on Pattern Recognition and Machine Intelligence in Multimedia Data)</li>
 <li>Information, MDPI (Special issue: Natural Language Processing in Healthcare and Medical Informatics)</li>
 <li>SN Computer Science, Springer nature (Special issue: AI and Deep Learning Trends in Healthcare) </li>
-<ul>
+</ul>
   
 **(Conference) Chair for** 
 <ul> 
