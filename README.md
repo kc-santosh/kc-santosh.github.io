@@ -8,7 +8,8 @@ Phone: (605) 677-5390<br>
 **Associate Professor** (Visiting)<br>
 School of Computing and IT, Taylor's University, Malaysia <br>
 
-#### Research on COVID-19 (2020)
+#### <p style='color:red'>Research</p> on COVID-19 (2020)
+
 <ul>
 <li>AI-Driven Tools for Coronavirus Outbreak: Need of Active Learning and Cross-Population Train/Test Models on Multitudinal/Multimodal Data, Journal of Medical Systems, Vol. 44, 2020, 
 <a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a></li>
