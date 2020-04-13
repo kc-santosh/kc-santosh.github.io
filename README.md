@@ -9,14 +9,16 @@ Phone: (605) 677-5390<br>
 School of Computing and IT, Taylor's University, Malaysia <br>
 
 #### Research on COVID-19 (2020)
-a) AI-driven tools for coronavirus outbreak ..., Journal of Medical Systems, Vol. 44, 2020, 
-<a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a><br>
-b) Truncated Inception Net: COVID-19 Outbreak Screening using Chest X-rays, <a href="https://doi.org/10.21203/rs.3.rs-20795/v1">DOI:10.21203/rs.3.rs-20795/v1 (Preprint)</a> ...<br>
-
+<ul>
+<li> AI-driven tools for coronavirus outbreak ..., Journal of Medical Systems, Vol. 44, 2020, 
+<a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a></li>
+<li> Truncated Inception Net: COVID-19 Outbreak Screening using Chest X-rays, <a href="https://doi.org/10.21203/rs.3.rs-20795/v1">DOI:10.21203/rs.3.rs-20795/v1 (Preprint)</a> ...</li>
+  <li> Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images, <a href="https://arxiv.org/abs/2004.03431">ArXiv: arxiv.org/abs/2004.03431 (Preprint)</a> 
+</ul>
 **#COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection**<br>
 
 
-### Quick Biograpgy
+### Quick Biography
 Dr. Santosh is an Associate Professor and Graduate Program Director of the Department of Computer Science at the University of South Dakota (USD). Also, Dr. Santosh serves School of Computing and IT, Taylor's University as a Visiting Associate Professor. Before joining USD, Dr. Santosh worked as a research fellow at the U.S. National Library of Medicine (NLM), National Institutes of Health (NIH). He worked as a postdoctoral research scientist at the LORIA research centre, Universite de Lorraine in direct collaboration with industrial partner ITESOFT, France. He also worked as a research scientist at the INRIA Nancy Grand Est research centre, France, where he has received his PhD diploma in Computer Science. Dr. Santosh demonstrated expertise in artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining, and big data with various application domains, such as healthcare informatics and medical imaging, graphics recognition, document information content exploitation, biometrics, forensics, speech analysis, satellite imaging, robotics, and Internet of Things. He published more than 150 peer-reviewed research articles, authored 4 books, and edited more than 15 books, journal issues and conference proceedings. Dr. Santosh serves as an associate editor for multiple journals, such as Int. J. of Machine Learning & Cybernetics, and chaired more than 10 international conference events in the domain. Dr. is the proud recipient of the President’s Research Excellence Award (USD, 2019) and Department of Health & Human Services (2014).
 
 #### Editor-In-Chief:
