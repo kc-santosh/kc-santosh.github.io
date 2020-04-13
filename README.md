@@ -14,6 +14,7 @@ School of Computing and IT, Taylor's University, Malaysia <br>
 <a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a></li>
 <li>Truncated Inception Net: COVID-19 Outbreak Screening using Chest X-rays, <a href="https://doi.org/10.21203/rs.3.rs-20795/v1">DOI:10.21203/rs.3.rs-20795/v1 (Preprint)</a></li>
   <li>Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images, <a href="https://arxiv.org/abs/2004.03431">ArXiv: arxiv.org/abs/2004.03431 (Preprint)</a></li> 
+  <li>Shallow Convolutional Neural Network for COVID-19 Outbreak Screening using Chest X-rays, (Submitted, under review) </li>
 </ul>
 
 **#COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection**<br>
