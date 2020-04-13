@@ -18,9 +18,8 @@ School of Computing and IT, Taylor's University, Malaysia <br>
   <li>Shallow Convolutional Neural Network for COVID-19 Outbreak Screening using Chest X-rays, (Submitted, under review) </li>
 </ul>
 
-<div class="text-blue">
+
 **#COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection**<br>
-</div>
 
 
 
