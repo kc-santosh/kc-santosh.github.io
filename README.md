@@ -31,17 +31,21 @@ International Journal of Ambient Computing and Intelligence (IJACI), IGI Global 
 Journal of Pattern Recognition Research
 
 #### News (on-going):
-**(Journal) Guest editor for** <br>
-a) International Journal of Document Analysis & Recognition (IJDAR, Springer Nature) (Special issue: Deep learning for graphics recognition: document understanding and beyond) <br>
-b) International Journal of Ambient Computing and Intelligence (IJACI, IGI Global) (Special issue: Advances on deep and machine learning for data mining, knowledge representation, and reasoning)<br>
-c) Multimedia Tools & Applications (MTAP, Springer Nature) (Special issue: Recent Advances on Pattern Recognition and Machine Intelligence in Multimedia Data)<br>
-d) Information, MDPI (Special issue: Natural Language Processing in Healthcare and Medical Informatics)<br>
-e) SN Computer Science, Springer nature (Special issue: AI and Deep Learning Trends in Healthcare) <br>
+**(Journal) Guest editor for** 
+<ul> 
+  <li>International Journal of Document Analysis & Recognition (IJDAR, Springer Nature) (Special issue: Deep learning for graphics recognition: document understanding and beyond)</li>
+<li>International Journal of Ambient Computing and Intelligence (IJACI, IGI Global) (Special issue: Advances on deep and machine learning for data mining, knowledge representation, and reasoning)</li>
+<li>Multimedia Tools & Applications (MTAP, Springer Nature) (Special issue: Recent Advances on Pattern Recognition and Machine Intelligence in Multimedia Data)</li>
+<li>Information, MDPI (Special issue: Natural Language Processing in Healthcare and Medical Informatics)</li>
+<li>SN Computer Science, Springer nature (Special issue: AI and Deep Learning Trends in Healthcare) </li>
+<ul>
+  
+**(Conference) Chair for** 
+<ul> 
+  <li>General chair for the IEEE 33rd International Symposium on Computer Based Medical Systems (CBMS), Mayo Clinic, Rochester, MN (June 22 - 24, 2020); </li>
+<li>Co-chair for PR4BioImaging2020: Pattern Recognition for Biomedical Quantitative Imaging, Internationak Conference in Pattern Recognition & Artificial Intelligence (ICPRAI), Zhongshan City, China (May 12-15, 2020) </li>
 
-**(Conference) Chair for** <br>
-a) General chair for the IEEE 33rd International Symposium on Computer Based Medical Systems (CBMS), Mayo Clinic, Rochester, MN (June 22 - 24, 2020); <br>
-b) Co-chair for PR4BioImaging2020: Pattern Recognition for Biomedical Quantitative Imaging, Internationak Conference in Pattern Recognition & Artificial Intelligence (ICPRAI), Zhongshan City, China (May 12-15, 2020) <br><br>
-
+</ul>
 Note: For all of these journal issues and conferene events, if you have queries, contact me at santosh (dot) kc (at) ieee (dot) org
 
 
