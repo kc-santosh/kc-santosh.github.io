@@ -10,27 +10,25 @@ School of Computing and IT, Taylor's University, Malaysia <br>
 
 #### Research on COVID-19 (2020)
 
-**Book** 
-<ul>
-  <li> Intelligent Systems and Methods to Combat COVID-19, Springer Brief (in progress; more updates coming soon.)</li>
-</ul>
+
+
+  
+
 
 **Journal Article**
 <ul>
-<li>AI-Driven Tools for Coronavirus Outbreak: Need of Active Learning and Cross-Population Train/Test Models on Multitudinal/Multimodal Data, Journal of Medical Systems, Vol. 44, 2020, 
+ <li>**Book**  Intelligent Systems and Methods to Combat COVID-19, Springer Brief (in progress; more updates coming soon.)</li>
+<li>**Article** AI-Driven Tools for Coronavirus Outbreak: Need of Active Learning and Cross-Population Train/Test Models on Multitudinal/Multimodal Data, Journal of Medical Systems, Vol. 44, 2020, 
 <a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a></li>
-<li>Truncated Inception Net: COVID-19 Outbreak Screening using Chest X-rays, <a href="https://doi.org/10.21203/rs.3.rs-20795/v1">DOI:10.21203/rs.3.rs-20795/v1 (Preprint)</a></li>
-  <li>Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images, <a href="https://arxiv.org/abs/2004.03431">ArXiv: arxiv.org/abs/2004.03431 (Preprint)</a></li> 
-  <li>Shallow Convolutional Neural Network for COVID-19 Outbreak Screening using Chest X-rays, (Submitted, under review) </li>
-  <li>COVID-19: Psychological and Psychosocial Impact, Fear, and Passion (Submitted, under review) </li>
-  
-  <li>Data-Driven Model for COVID-19: Prediction for the next 5/10 days? (in preparation) </li>
-  <li>Deep Learning Model for COVID-19 Detection: Can One Architecture be Used to Train/Test both CT Scans and Chest X-rays (in preparation) </li>
+<li>**Article** Truncated Inception Net: COVID-19 Outbreak Screening using Chest X-rays, <a href="https://doi.org/10.21203/rs.3.rs-20795/v1">DOI:10.21203/rs.3.rs-20795/v1 (Preprint)</a></li>
+<li>**Article** Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images, <a href="https://arxiv.org/abs/2004.03431">ArXiv: arxiv.org/abs/2004.03431 (Preprint)</a></li> 
+<li>**Article** hallow Convolutional Neural Network for COVID-19 Outbreak Screening using Chest X-rays, (Submitted, under review) </li>
+<li>**Article** COVID-19: Psychological and Psychosocial Impact, Fear, and Passion (Submitted, under review) </li> 
+<li>**Article** Parameter-free Data-Driven Model for COVID-19: Prediction for the next 5/10 days? (in preparation) </li>
+<li>**Article** Deep Learning Model for COVID-19 Detection: Can One Architecture be Used to Train/Test both CT Scans and Chest X-rays (in preparation) </li>
 </ul>
 
-
 **#COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection**<br>
-
 
 
 ### Quick Biography
