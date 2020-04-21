@@ -11,6 +11,8 @@ School of Computing and IT, Taylor's University, Malaysia <br>
 #### Research on COVID-19 (2020)
 
 <ul>
+  <li> **Book** Intelligent Systems and Methods to Combat COVID-19, Springer Brief (in progress; more updates coming soon.)</li>
+  
 <li>AI-Driven Tools for Coronavirus Outbreak: Need of Active Learning and Cross-Population Train/Test Models on Multitudinal/Multimodal Data, Journal of Medical Systems, Vol. 44, 2020, 
 <a href="https://doi.org/10.1007/s10916-020-01562-1">DOI:10.1007/s10916-020-01562-1</a></li>
 <li>Truncated Inception Net: COVID-19 Outbreak Screening using Chest X-rays, <a href="https://doi.org/10.21203/rs.3.rs-20795/v1">DOI:10.21203/rs.3.rs-20795/v1 (Preprint)</a></li>
