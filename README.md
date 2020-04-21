@@ -10,12 +10,8 @@ School of Computing and IT, Taylor's University, Malaysia <br>
 
 #### Research on COVID-19 (2020)
 
+**#COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection**
 
-
-  
-
-
-**Journal Article**
 <ul>
  <li>**Book**  Intelligent Systems and Methods to Combat COVID-19, Springer Brief (in progress; more updates coming soon.)</li>
 <li>**Article** AI-Driven Tools for Coronavirus Outbreak: Need of Active Learning and Cross-Population Train/Test Models on Multitudinal/Multimodal Data, Journal of Medical Systems, Vol. 44, 2020, 
@@ -28,7 +24,7 @@ School of Computing and IT, Taylor's University, Malaysia <br>
 <li>**Article** Deep Learning Model for COVID-19 Detection: Can One Architecture be Used to Train/Test both CT Scans and Chest X-rays (in preparation) </li>
 </ul>
 
-**#COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection**<br>
+
 
 
 ### Quick Biography
