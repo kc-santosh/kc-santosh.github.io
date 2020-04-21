@@ -19,7 +19,7 @@ School of Computing and IT, Taylor's University, Malaysia <br>
   <li>COVID-19: Psychological and Psychosocial Impact, Fear, and Passion (Submitted, under review) </li>
   
   <li>Data-Driven Model for COVID-19: Prediction for the next 5/10 days? (in preparation) </li>
-  <li>Deep Learning Model for COVID-19 Detection: Can one Architecture be Used to Analyze both CT Scans and Chest X-rays (in preparation) </li>
+  <li>Deep Learning Model for COVID-19 Detection: Can One Architecture be Used to Train/Test both CT Scans and Chest X-rays (in preparation) </li>
 </ul>
 
 
