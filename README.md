@@ -1,6 +1,6 @@
 
 ### KC Santosh, PhD, IEEE Senior Member 
-**Associate Professor** (Promoted with tenure, effective from SU2020)<br>
+**Associate Professor** and **Graduate Program Director**<br>
 Department of Computer Science, The University of South Dakota<br>
 Email: santosh.kc@ieee.org & santosh.kc@usd.edu <br>
 Phone: (605) 677-5390<br>
