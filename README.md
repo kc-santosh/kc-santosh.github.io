@@ -78,6 +78,8 @@ Special issue: AI-Driven Tools for Decision-Making in Healthcare and Medical Inf
 <li>Co-chair for PR4BioImaging2020: Pattern Recognition for Biomedical Quantitative Imaging, Internationak Conference in Pattern Recognition & Artificial Intelligence (ICPRAI), Zhongshan City, China (May 12-15, 2020) </li>
 
 </ul>
+<br>
+
 Note: For all of these journal issues and conferene events, if you have queries, contact me at santosh (dot) kc (at) ieee (dot) org
 
 
