@@ -50,20 +50,20 @@ Journal of Pattern Recognition Research
 **(Journal) Guest editor for** 
 <ul> 
   <li>IJDAR, Springer Nature <br>
-Special issue: Deep learning for graphics recognition: document understanding and beyond (<a href="https://www.springer.com/journal/10032/updates/17548808">URL</a>)</li>
+Special issue: Deep learning for graphics recognition: document understanding and beyond (<a href="https://www.springer.com/journal/10032/updates/17548808">URL</a>, under review, submission closed!)</li>
 <li>IJACI, IGI Global <br>
- Special issue: Advances on deep and machine learning for data mining, knowledge representation, and reasoning</li>
+ Special issue: Advances on deep and machine learning for data mining, knowledge representation, and reasoning (to appear, submission closed!)</li>
 <li>MTAP, Springer Nature <br>
- Special issue: Recent Advances on Pattern Recognition and Machine Intelligence in Multimedia Data</li>
+ Special issue: Recent Advances on Pattern Recognition and Machine Intelligence in Multimedia Data (to appear, submission closed!)</li>
 <li>Information, MDPI <br>
  Special issue: Natural Language Processing in Healthcare and Medical Informatics 
- (<a href="https://www.mdpi.com/journal/information/special_issues/NLP_Healthcare">URL</a>)</li>
+ (<a href="https://www.mdpi.com/journal/information/special_issues/NLP_Healthcare">URL</a>, accepting submissions!)</li>
 <li>SN Computer Science, Springer Nature <br>
 Special issue: AI and Deep Learning Trends in Healthcare 
- (<a href="https://www.springer.com/journal/42979/updates/17257234">URL</a>)</li>
+ (<a href="https://www.springer.com/journal/42979/updates/17257234">URL</a>, accepting submissions!)</li>
 <li>Applied Sciences <br>
 Special issue: AI-Driven Tools for Decision-Making in Healthcare and Medical Informatics
-  (<a href="https://www.mdpi.com/journal/applsci/special_issues/AI-Driven_Tools_Healthcare">URL</a>)</li>
+  (<a href="https://www.mdpi.com/journal/applsci/special_issues/AI-Driven_Tools_Healthcare">URL</a>, accepting submissions!)</li>
 </ul>
 
   
