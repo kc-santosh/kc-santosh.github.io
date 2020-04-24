@@ -8,6 +8,9 @@ Phone: (605) 677-5390<br>
 **Associate Professor** (Visiting)<br>
 School of Computing and IT, Taylor's University, Malaysia <br>
 
+For more information: visit <a href="http://kc-santosh.org">kc-santosh.org</a>.
+
+
 #### Research on COVID-19 (2020)
 
 **#COVID19, #ArtificialIntelligence, #MachineLearning #PatternRecognition #AnomalyDetection**
@@ -32,6 +35,8 @@ School of Computing and IT, Taylor's University, Malaysia <br>
 ### Quick Biography
 Dr. Santosh is an Associate Professor and Graduate Program Director of the Department of Computer Science at the University of South Dakota (USD). Also, Dr. Santosh serves School of Computing and IT, Taylor's University as a Visiting Associate Professor. Before joining USD, Dr. Santosh worked as a research fellow at the U.S. National Library of Medicine (NLM), National Institutes of Health (NIH). He worked as a postdoctoral research scientist at the LORIA research centre, Universite de Lorraine in direct collaboration with industrial partner ITESOFT, France. He also worked as a research scientist at the INRIA Nancy Grand Est research centre, France, where he has received his PhD diploma in Computer Science. Dr. Santosh demonstrated expertise in artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining, and big data with various application domains, such as healthcare informatics and medical imaging, graphics recognition, document information content exploitation, biometrics, forensics, speech analysis, satellite imaging, robotics, and Internet of Things. He published more than 150 peer-reviewed research articles, authored 4 books, and edited more than 15 books, journal issues and conference proceedings. Dr. Santosh serves as an associate editor for multiple journals, such as Int. J. of Machine Learning & Cybernetics, and chaired more than 10 international conference events in the domain. Dr. is the proud recipient of the President’s Research Excellence Award (USD, 2019) and Department of Health & Human Services (2014).
 
+
+
 #### Editor-In-Chief:
 Internationl Journal of Signal Processing, Image Processing, and Pattern Recognition
 
@@ -44,12 +49,23 @@ Journal of Pattern Recognition Research
 #### News (on-going):
 **(Journal) Guest editor for** 
 <ul> 
-  <li>International Journal of Document Analysis & Recognition (IJDAR, Springer Nature) (Special issue: Deep learning for graphics recognition: document understanding and beyond)</li>
-<li>International Journal of Ambient Computing and Intelligence (IJACI, IGI Global) (Special issue: Advances on deep and machine learning for data mining, knowledge representation, and reasoning)</li>
-<li>Multimedia Tools & Applications (MTAP, Springer Nature) (Special issue: Recent Advances on Pattern Recognition and Machine Intelligence in Multimedia Data)</li>
-<li>Information, MDPI (Special issue: Natural Language Processing in Healthcare and Medical Informatics)</li>
-<li>SN Computer Science, Springer nature (Special issue: AI and Deep Learning Trends in Healthcare) </li>
+  <li>IJDAR, Springer Nature <br>
+Special issue: Deep learning for graphics recognition: document understanding and beyond (<a href="https://www.springer.com/journal/10032/updates/17548808">URL</a>)</li>
+<li>IJACI, IGI Global <br>
+ Special issue: Advances on deep and machine learning for data mining, knowledge representation, and reasoning</li>
+<li>MTAP, Springer Nature <br>
+ Special issue: Recent Advances on Pattern Recognition and Machine Intelligence in Multimedia Data</li>
+<li>Information, MDPI <br>
+ Special issue: Natural Language Processing in Healthcare and Medical Informatics 
+ (<a href="https://www.mdpi.com/journal/information/special_issues/NLP_Healthcare">URL</a>)</li>
+<li>SN Computer Science, Springer Nature <br>
+Special issue: AI and Deep Learning Trends in Healthcare 
+ (<a href="https://www.springer.com/journal/42979/updates/17257234">URL</a>)</li>
+<li>Applied Sciences <br>
+Special issue: AI-Driven Tools for Decision-Making in Healthcare and Medical Informatics
+  (<a href="https://www.mdpi.com/journal/applsci/special_issues/AI-Driven_Tools_Healthcare">URL</a>)</li>
 </ul>
+
   
 **(Conference) Chair for** 
 <ul> 
