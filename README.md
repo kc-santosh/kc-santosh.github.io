@@ -1,4 +1,3 @@
-
 ### KC Santosh, PhD, IEEE Senior Member 
 **Associate Professor** and **Graduate Program Director**<br>
 Department of Computer Science, The University of South Dakota<br>
