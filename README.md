@@ -1,11 +1,8 @@
 ### KC Santosh, PhD, IEEE Senior Member 
-**Associate Professor** and **Graduate Program Director**<br>
+**Chair** & **Associate Professor** <br>
 Department of Computer Science, The University of South Dakota<br>
 Email: santosh.kc@ieee.org & santosh.kc@usd.edu <br>
 Phone: (605) 677-5390<br>
-
-**Associate Professor** (Visiting)<br>
-School of Computing and IT, Taylor's University, Malaysia <br>
 
 For more information: visit <a href="http://kc-santosh.org">kc-santosh.org</a>.
 
@@ -32,8 +29,7 @@ For more information: visit <a href="http://kc-santosh.org">kc-santosh.org</a>.
 
 
 ### Quick Biography
-{\bf KC Santosh} (IEEE Senior Member) is an Associate Professor and Graduate Program Director of the Department of Computer Science at the University of South Dakota (USD). Also, Dr. Santosh serves School of Computing and IT, Taylor’s University as a Visiting Associate Professor. Before joining USD, Dr. Santosh worked as a research fellow at the U.S. National Library of Medicine (NLM), National Institutes of Health (NIH). He worked as a postdoctoral research scientist at the LORIA research centre, Universite de Lorraine in direct collaboration with industrial partner ITESOFT, France. He also worked as a research scientist at the INRIA Nancy Grand Est research centre, France, where he has received his PhD diploma in Computer Science. Dr. Santosh demonstrated expertise in artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining, and big data with various application domains, such as healthcare informatics and medical imaging, graphics recognition, document information content exploitation, biometrics, forensics, speech analysis, satellite imaging, robotics, and Internet of Things. He published more than 55 peer-reviewed research articles, 85 conference proceedings, and 7 book chapters. He authored 4 books, and edited more than 2 books, 11 journal issues, and 4 conference proceedings. Dr. Santosh serves as an Editor-In-Chief for IJSIP  and Associate Editor for multiple journals, such as Int. J. of Machine Learning & Cybernetics and IEEE Access. Dr. Santosh chaired more than 10 international conference events in the domain. In total, Dr. Santosh received more than $215K (grant amount) from multiple agencies, such as SDCRGP, Department of Education (DOE), and National Science Foundation (NSF). Dr. Santosh is the proud recipient of the President’s Research Excellence Award (USD, 2019) and Department of Health & Human Services (2014).
-
+Dr. Santosh is the Chair and Associate Professor of the Department of Computer Science (CS) at the University of South Dakota (USD). Before that, for 3 years (till 2020), he was the Graudate Program Director of Department of Computer Science (CS), USD. Dr. Santosh served School of Computing and IT, Taylor's University as a Visiting Associate Professor, for one year (2019/2020). Before joining USD, Dr. Santosh worked as a research fellow at the U.S. National Library of Medicine (NLM), National Institutes of Health (NIH). He worked as a postdoctoral research scientist at the LORIA research centre, Universite de Lorraine in direct collaboration with industrial partner ITESOFT, France. He also served as a research scientist at the INRIA Nancy Grand Est research centre, France, where, he has received his PhD diploma in Computer Science. Before that, he worked as a graduate research scholar at the SIIT, Thammasat University, Thailand. Dr. Santosh has published more than 62 peer-reviewed research articles, 95 conference proceedings, and 7 book chapters. He has authored 4 books, and edited 5 books, 14 journal issues, and 6 conference proceedings. He is currently Editor-In-Chief of IJSIP and an Associate Editor for several journals, such as International Journal of Machine Learning & Cybernetics, Springer Nature and IEEE Access. He has also chaired more than 10 international conference events. His research projects have been funded by multiple agencies, including the SDCRGP, Department of Education (DOE), and the National Science Foundation (NSF). Dr. Santosh is the proud recipient of the Presidents Research Excellence Award (USD, 2019) and an award form the Department of Health & Human Services (2014). 
 
 
 #### Editor-In-Chief:
@@ -64,10 +60,11 @@ Special issue: Deep learning for graphics recognition: document understanding an
 <li>SN Computer Science, Springer Nature,
 Special issue: AI and Deep Learning Trends in Healthcare 
  (<a href="https://www.springer.com/journal/42979/updates/17257234">URL</a>, accepting submissions!)</li>
-
+<!--
 <li>Applied Sciences,
 Special issue: AI-Driven Tools for Decision-Making in Healthcare and Medical Informatics
   (<a href="https://www.mdpi.com/journal/applsci/special_issues/AI-Driven_Tools_Healthcare">URL</a>, accepting submissions!)</li>
+-->
 </ul>
 
   
