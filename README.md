@@ -1,6 +1,5 @@
-### KC Santosh, PhD, IEEE Senior Member 
-**Chair** & **Associate Professor** <br>
-Department of Computer Science, The University of South Dakota<br>
+### KC Santosh, PhD,
+**Chair**, Department of Computer Science, The University of South Dakota<br>
 Email: santosh.kc@ieee.org & santosh.kc@usd.edu <br>
 Phone: (605) 677-5390<br>
 
